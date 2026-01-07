@@ -7,9 +7,28 @@
 - 👯 contate-me no mail: otaciliodovale5@gmail.com
 
 ##
+
+<a href="https://github.com/Otacilioo">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Otacilioo&theme=dark" alt="GitHub Streak" />
+</a>
+
+##
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Otacilioo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+  <img align="center" alt="Otacilioo-eclipse" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg">
+  <img align="center" alt="Otacilioo-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Otacilioo-windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg">
+
+##
+
 <div>
-  <a href="https://github.com/Otacilioo"> 
-<img height="42%" src="https://github-readme-stats.vercel.app/api?username=Otacilioo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="50%
-" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otacilioo&layout=compact&langs_count=16&theme=dark"/>
+ 
+  <a href="https://instagram.com/Otacilio.1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:otaciliodovale5@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://wa.me/85996011127" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  
+</div>
+
+ 
 </div>
