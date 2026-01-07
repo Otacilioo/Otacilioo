@@ -30,5 +30,9 @@
   
 </div>
 
+##
+
+![Snake animation](https://github.com/Otacilioo/otacilioo/blob/output/github-contribution-grid-snake.svg)
+
  
 </div>
