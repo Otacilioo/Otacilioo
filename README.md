@@ -4,7 +4,7 @@
 <h3>Desenvolvedor Java-End </h3>
 - 🔭 Pretendo ser um ótimo Dev
 - 🌱 Estudando atualmente a linguagem java
-- 👯 contate-me no mail: ray5@gmail.com
+- 👯 contate-me no mail: otaciliodovale5@gmail.com
 
 ##
 
